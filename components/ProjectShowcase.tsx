@@ -27,7 +27,10 @@ const projects = [
     tags: ["Design Days", "Entrepreneures", "Community"]
   },
   {
-    title: "ANNADATA",
+    title: (
+      <a href="  https://www.behance.net/gallery/195239731/Google-Product-Challenge" target="_blank" rel="noopener noreferrer">
+        ANNA-DATA    
+        </a>),
     description: "Mobile app leveraging Decision Tree model to enhance farmers' ROI and strategic decision-making.",
     achievements: [
       "Google Hackathon Finalist",
@@ -37,7 +40,10 @@ const projects = [
     tags: ["Mobile App", "AI", "Agriculture","User Centric design"]
   },
   {
-    title: "ProAi Guard",
+    title: (
+      <a href="https://youtu.be/tnUIhfSO5VU?si=IvbnJUbrR7j8wtzO" target="_blank" rel="noopener noreferrer">
+        ProAI-Guard : Bias Detection and Mitigation  
+        </a>),
     description: "Framework to detect and mitigate bias in LLM generated code.",
     achievements: [
       "Enhanced model fairness",
