@@ -1,33 +1,40 @@
 const projects = [
   {
-    title: "OpenHLS",
-    description: "AI-based platform to onboard Bio-informatics projects with streamlined workflows.",
+    title: (
+      <a href="https://drive.google.com/file/d/11MgqY6yTGCJudso259ictYUdNf4omCAz/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        Product School Case Competition: Boosting Creator Monetization on Instagram      </a>
+    ),
+    description: "Instagram faces growing competition from TikTok and YouTube in the creator monetization space. With over 2 billion monthly active users and 50 million creators, retaining creator loyalty requires innovative and impactful direct monetization solutions.",
     achievements: [
-      "Led end-to-end product development",
-      "Increased user satisfaction by 25%",
-      "Boosted user engagement by 15%"
+      "Developed mobile-first monetization features, addressing competition and market gaps.",
+      "Prioritized rollouts using the RICE framework with prototypes in Balsamiq and Figma.",
+      "Defined KPIs and GTM strategies to ensure success."
     ],
-    tags: ["Product Management", "AI", "Bio-informatics"]
+    tags: ["Product Management", "Case Study", "Creator Monetization"]
   },
   {
-    title: "Data Foundations",
-    description: "Dataset management platform focusing on GDPR compliance and monetization.",
+    title: (
+      <a href="https://www.behance.net/gallery/202299389/Salesforece-Design-Challenge" target="_blank" rel="noopener noreferrer">
+        Salesforce Design Days - Entrepreneurship Program for Marginalized Women      </a>
+    ),
+    description: "Design an entrepreneurial program to empower marginalized women entrepreneurs",
     achievements: [
-      "Improved user retention by 20%",
-      "Introduced monetization strategies",
-      "Increased platform engagement by 30%"
+      "Empowered marginalized women through mentorship and entrepreneurship training.",
+      "Leveraged ASHA workers for outreach and provided digital resources.",
+      "Fostered community growth via sustainable women-led ventures.",
+      "Planning to prototype a scalable platform for broader impact."
     ],
-    tags: ["Data Management", "GDPR", "Monetization"]
+    tags: ["Design Days", "Entrepreneures", "Community"]
   },
   {
     title: "ANNADATA",
     description: "Mobile app leveraging Decision Tree model to enhance farmers' ROI and strategic decision-making.",
     achievements: [
       "Google Hackathon Finalist",
-      "Led cross-functional team",
-      "Developed AI-driven prototype"
+      "Led cross-functional team and developed application Backed by ML backend",
+      "Developed AI-driven prototype for farmers"
     ],
-    tags: ["Mobile App", "AI", "Agriculture"]
+    tags: ["Mobile App", "AI", "Agriculture","User Centric design"]
   },
   {
     title: "ProAi Guard",

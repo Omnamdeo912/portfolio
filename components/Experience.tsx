@@ -1,14 +1,24 @@
 const experiences = [
   {
-    title: "Product Management Intern",
-    company: "I-Hub Data",
+    title: (
+      <a href="https://drive.google.com/drive/folders/1NrIkGSXrjEfDtu-Lj2NUxL6imRjAYYJq?usp=sharing" target="_blank" rel="noopener noreferrer">
+        Product Management Intern
+      </a>
+    ),
+    company: (
+      <a href="https://ihub-data.iiit.ac.in/" target="_blank" rel="noopener noreferrer">
+        I-Hub Data
+      </a>
+    ),
     period: "Feb 2024 – Aug 2024",
     description: "Led product initiatives for OpenHLS and Data Foundations, focusing on user satisfaction and stakeholder management.",
     achievements: [
-      "Increased user satisfaction by 25% for OpenHLS through end-to-end product development",
-      "Boosted user engagement by 15% by integrating post-processing tools",
-      "Improved user retention by 20% for Data Foundations and introduced monetization strategies",
-      "Spearheaded GDPR compliance, increasing platform engagement by 30%"
+      "OpenHLS - AI based platform to onboard Bio-informatics projects with streamlined workflows:",
+      "∗ Led end-to-end product development, managing key stakeholders from Intel and Microlabs, and addressing user pain points, resulting in a 25% increase in user satisfaction.",
+      "∗ Enhanced platform by integrating post-processing tools, leading to a boost in user engagement.",
+      "Data Foundations - Dataset management platform:",
+      "∗ Streamlined data workflows, improving user retention by 20%, and introduced monetization strategies expected to drive a 30% revenue increase.",
+      "∗ Spearheaded GDPR compliance, aligning product enhancements with OKRs, which increased platform engagement."
     ]
   },
   {
